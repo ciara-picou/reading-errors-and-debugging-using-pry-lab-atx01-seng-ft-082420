@@ -5,6 +5,6 @@ def snake_it_up(string = "say something")
   puts #{"Sssssssss" + string}
  
   else
-    puts string
+    p string
   end
 end
