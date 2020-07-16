@@ -5,6 +5,6 @@ def snake_it_up(string)
   puts "Sssssssss" + string
  
   else
-    p string
+    puts string
   end
 end
