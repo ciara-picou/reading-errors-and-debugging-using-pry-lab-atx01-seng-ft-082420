@@ -5,7 +5,7 @@ def snake_it_up(string)
   puts "Sssssssss" + string
   
   elsif string[0] == "S"
-  puts "Ssssssssss" + string.downcase
+  puts "Sssssssss" + string.downcase
  
   else
     puts string
