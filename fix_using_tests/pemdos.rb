@@ -7,4 +7,4 @@ def snake_it_up(string = "say something")
   else
     p string
   end
-end
+
