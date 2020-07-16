@@ -2,9 +2,9 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-  puts "Sssssssss" + string
+  p "Sssssssss" + string
  
   else
-    puts string
+    p string
   end
 end
