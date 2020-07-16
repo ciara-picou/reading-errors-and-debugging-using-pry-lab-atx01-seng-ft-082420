@@ -5,7 +5,7 @@ def snake_it_up(string)
   p "Sssssssss" + string
   
   elsif string[0] == "S"
-  Ssssssssss + string.shift()
+  "Ssssssssss" + string.shift()
  
   else
     p string
